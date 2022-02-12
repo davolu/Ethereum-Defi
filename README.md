@@ -10,6 +10,13 @@ This project demonstrates a web application that can send Etherium to given addr
 - Solidity
 - chai testing
 
+![Alt text](https://github.com/davolu/etherium-crypto-sender/blob/master/client/images/Screen%20Shot%202022-02-12%20at%2023.05.18.png?raw=true "Screenshot demo 1")
+
+![Alt text](https://github.com/davolu/etherium-crypto-sender/blob/master/client/images/Screen%20Shot%202022-02-12%20at%2023.10.43.png?raw=true "Screenshot demo 2")
+
+
+![Alt text](https://github.com/davolu/etherium-crypto-sender/blob/master/client/images/screencapture-localhost-3000-2022-02-12-23_09_35.png?raw=true "Screenshot demo 3")
+
 Try running some of the following tasks:
 
 ```shell

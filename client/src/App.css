@@ -1,0 +1,32 @@
+.bg-image-container{
+    background-image: url("../images//background.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    margin-top: 0.1%;
+}
+ 
+.eth-card {
+    background-image:#f5f7f3;
+    background-image:  
+    radial-gradient(at 61% 92%, hsla(320,57%,43%,1) 0, transparent 54%),  
+    radial-gradient(at 70% 44%, hsla(306,79%,45%,1) 0, transparent 42%),  
+    radial-gradient(at 50% 61%, hsla(0,69%,90%,1) 0, transparent 42%),  
+    radial-gradient(at 67% 43%, hsla(24,67%,77%,1) 0, transparent 44%),  
+    radial-gradient(at 7% 86%, hsla(306,94%,38%,1) 0, transparent 47%),  
+    radial-gradient(at 14% 0%, hsla(336,96%,46%,1) 0, transparent 51%),  
+    radial-gradient(at 66% 9%, hsla(343,100%,99%,1) 0, transparent 40%);
+
+  }
+
+.custom-input{
+ border: solid 1px hsla(320,57%,43%,1) ;
+ padding: 10px;
+  }
+.mtx-500{
+  margin-top: 15%;
+}
+.text-blue-link{
+  color:blue;
+  text-decoration: underline;
+}

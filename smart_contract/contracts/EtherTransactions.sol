@@ -38,6 +38,8 @@ contract EtherTransactions {
         //returns the number of transactions
         return numberOfTransactions;
     }
+  
+ 
 
 }
 
